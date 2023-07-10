@@ -1,0 +1,6 @@
+https://pysdr.org/
+https://www.usna.edu/EE/ee434/Projects/Balint_GNUR_Tutorials_CRA_Mod.pdf
+https://dewesoft.com/blog/guide-to-fft-analysis
+https://wiki.analog.com/university/tools/pluto/users/firmware
+https://wiki.analog.com/university/tools/pluto/devs/embedded_code
+https://wiki.analog.com/resources/tools-software/linux-software/gnuradio
