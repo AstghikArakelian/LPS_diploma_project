@@ -64,7 +64,7 @@ classdef fsk_receive
                 if valid
                     j = j + 1;
                     rssi_val = str2double(strtok(rssi, ' dB'));
-                    values = [values, rssi_val];
+                    values = [values, rssi_val]; %#ok<AGROW>
                 end
 
                 if j >= obj.Samples
